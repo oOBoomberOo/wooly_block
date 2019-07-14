@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:item",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_name",
+							"name": [
+								{"text": "Wooly Block", "color": "white", "italic": false}
+							]
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{ucit: {id: \"wooly_block\", from: \"boomber:wooly_block\", author: [\"boomber\"]}}"
+						}
+					],
+					"name": "minecraft:white_wool"
+				}
+			]
+		}
+	]
+}

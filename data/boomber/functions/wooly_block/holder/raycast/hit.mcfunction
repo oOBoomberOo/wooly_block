@@ -1,0 +1,1 @@
+scoreboard players set @s bb.success 1

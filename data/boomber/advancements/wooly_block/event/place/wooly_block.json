@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"wooly_block": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"item": {
+					"nbt": "{ucit: {id: \"wooly_block\", from: \"boomber:wooly_block\"}}"
+				}
+			}
+		}
+	},
+	"parent": "boomber:wooly_block/event/root",
+	"rewards": {
+		"function": "boomber:wooly_block/place/wooly_block"
+	}
+}
