@@ -1,5 +1,4 @@
 {
-	"type": "minecraft:item",
 	"pools": [
 		{
 			"rolls": 1,
@@ -15,7 +14,7 @@
 						},
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{ucit: {id: \"wooly_block\", from: \"boomber:wooly_block\", author: [\"boomber\"]}}"
+							"tag": "{ctc: {id: \"wooly_block\", from: \"boomber:wooly_block\", traits: ['block']}}"
 						}
 					],
 					"name": "minecraft:white_wool"

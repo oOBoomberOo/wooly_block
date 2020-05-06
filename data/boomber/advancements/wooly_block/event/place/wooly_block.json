@@ -4,7 +4,7 @@
 			"trigger": "minecraft:placed_block",
 			"conditions": {
 				"item": {
-					"nbt": "{ucit: {id: \"wooly_block\", from: \"boomber:wooly_block\"}}"
+					"nbt": "{ctc: {id: \"wooly_block\", from: \"boomber:wooly_block\"}}"
 				}
 			}
 		}

@@ -1,2 +1,2 @@
 function boomber:wooly_block/wooly_block/spawn
-scoreboard players set @s bb.success 1
+scoreboard players set #raycast bb.wb.var 1

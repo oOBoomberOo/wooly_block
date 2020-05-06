@@ -1,6 +1,6 @@
 {
 	"display": {
-		"title": "Wooly Block v1.0.0",
+		"title": "Wooly Block",
 		"description": "",
 		"icon": {
 			"item": "minecraft:white_wool"
@@ -8,7 +8,7 @@
 		"announce_to_chat": false,
 		"show_toast": false
 	},
-	"parent": "boomber:boomber",
+	"parent": "global:boomber",
 	"criteria": {
 		"trigger": {
 			"trigger": "minecraft:tick"
