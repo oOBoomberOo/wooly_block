@@ -15,7 +15,7 @@ jobs:
 
       - uses: oOBoomberOo/megu-pipeline@v1
         with:
-          version: '3.0.0'
+          version: '0.3.0'
 
       - name: Build Megumax
         run: megu
