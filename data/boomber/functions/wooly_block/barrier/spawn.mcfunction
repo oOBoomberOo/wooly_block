@@ -1,2 +1,0 @@
-summon area_effect_cloud ~ ~ ~ {Tags: ["boomber.wooly_block.barrier", "global.ignore", "global.ignore.kill", "global.ignore.pos", "global.ignore.gui"], Age: 0, Duration: 2}
-setblock ~ ~ ~ minecraft:barrier

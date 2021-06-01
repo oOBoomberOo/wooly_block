@@ -1,1 +1,0 @@
-scoreboard objectives add bb.wb.var dummy
