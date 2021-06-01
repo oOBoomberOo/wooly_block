@@ -1,0 +1,1 @@
+summon area_effect_cloud ~ ~ ~ {Tags: ['boomber.wooly_block.wooly_block', 'boomber.wooly_block.variant.[color]', 'global.ignore', 'global.ignore.kill', 'global.ignore.gui', 'global.ignore.pos'], Age: 0, Duration: 10}

@@ -1,0 +1,1 @@
+execute if entity @s[nbt={Age: 1}] run function boomber:wooly_block/barrier/destroy

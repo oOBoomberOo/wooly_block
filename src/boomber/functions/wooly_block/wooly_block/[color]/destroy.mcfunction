@@ -1,0 +1,2 @@
+execute as @e[type=item, nbt={Item: {id: "minecraft:[color]_wool"}, Age: 0s}, tag=!global.ignore, tag=!global.ignore.kill, limit=1, distance=..1] run function boomber:wooly_block/wooly_block/[color]/drop
+kill @s

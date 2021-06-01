@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"wooly_block": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"item": {
+					"nbt": "{ctc: {id: '[color]_wooly_block', from: 'boomber:wooly_block'}}"
+				}
+			}
+		}
+	},
+	"parent": "boomber:wooly_block/event/root",
+	"rewards": {
+		"function": "boomber:wooly_block/event/place/[color]/run"
+	}
+}

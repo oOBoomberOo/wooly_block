@@ -1,0 +1,25 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_name",
+							"name": [
+								{"text": "Wooly Block", "color": "white", "italic": false}
+							]
+						},
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{ctc: {id: '[color]_wooly_block', from: 'boomber:wooly_block', traits: {block: 1b, 'boomber/wooly_block': 1b} }}"
+						}
+					],
+					"name": "minecraft:[color]_wool"
+				}
+			]
+		}
+	]
+}
